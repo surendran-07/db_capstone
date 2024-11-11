@@ -1,0 +1,5 @@
+BookingID,BookingDate,CustomerID,TableNumber,StaffID
+1,2022-10-10,1,5,NULL
+2,2022-11-12,3,3,NULL
+3,2022-10-11,2,2,NULL
+4,2022-10-13,1,2,NULL

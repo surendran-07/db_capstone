@@ -1,0 +1,1001 @@
+CustomerID,FullName,OrderID,TotalCost,MenuName,CourseName,StarterName
+810,"Manuel Gloyens",19383,168.27,"Greek Pizza Feast",Pizza,Falafel
+235,"Galina Whaites",19607,168.27,"Greek Pizza Feast",Pizza,Falafel
+235,"Galina Whaites",19662,168.27,"Greek Pizza Feast",Pizza,Falafel
+898,"Brendin Meedendorpe",3383,168.27,"Italian Kabasa Feast",Kabasa,Olives
+898,"Brendin Meedendorpe",3394,168.27,"Italian Kabasa Feast",Kabasa,Olives
+43,"Dodi Lenglet",3903,168.27,"Italian Kabasa Feast",Kabasa,Olives
+43,"Dodi Lenglet",3936,168.27,"Italian Kabasa Feast",Kabasa,Olives
+758,"Gothart Domesday",4917,168.27,"Italian Kabasa Feast",Kabasa,Olives
+758,"Gothart Domesday",4928,168.27,"Italian Kabasa Feast",Kabasa,Olives
+60,"Guthry Galpin",5491,168.27,"Italian Kabasa Feast",Kabasa,Olives
+60,"Guthry Galpin",5502,168.27,"Italian Kabasa Feast",Kabasa,Olives
+693,"Sabra Corry",5605,168.27,"Italian Kabasa Feast",Kabasa,Olives
+693,"Sabra Corry",5627,168.27,"Italian Kabasa Feast",Kabasa,Olives
+911,"Cori Percifer",7680,168.27,"Italian Kabasa Feast",Kabasa,Olives
+911,"Cori Percifer",7702,168.27,"Italian Kabasa Feast",Kabasa,Olives
+152,"Hanni Dunbleton",7739,168.27,"Italian Kabasa Feast",Kabasa,Olives
+152,"Hanni Dunbleton",7772,168.27,"Italian Kabasa Feast",Kabasa,Olives
+681,"Evangeline Bernet",7973,168.27,"Italian Kabasa Feast",Kabasa,Olives
+681,"Evangeline Bernet",8006,168.27,"Italian Kabasa Feast",Kabasa,Olives
+850,"Titos Edgcumbe",8145,168.27,"Italian Kabasa Feast",Kabasa,Olives
+850,"Titos Edgcumbe",8167,168.27,"Italian Kabasa Feast",Kabasa,Olives
+497,"Ludwig Fuxman",8716,168.27,"Italian Kabasa Feast",Kabasa,Olives
+587,"Dene Dawby",8775,168.27,"Italian Kabasa Feast",Kabasa,Olives
+587,"Dene Dawby",8797,168.27,"Italian Kabasa Feast",Kabasa,Olives
+121,"Bonnee Keller",10020,168.27,"Italian Kabasa Feast",Kabasa,Olives
+121,"Bonnee Keller",10031,168.27,"Italian Kabasa Feast",Kabasa,Olives
+838,"Ives Armstead",12833,168.27,"Italian Kabasa Feast",Kabasa,Olives
+838,"Ives Armstead",12877,168.27,"Italian Kabasa Feast",Kabasa,Olives
+266,"Karoly Ivie",14200,168.27,"Italian Kabasa Feast",Kabasa,Olives
+266,"Karoly Ivie",14244,168.27,"Italian Kabasa Feast",Kabasa,Olives
+79,"Weston Dearden",14398,168.27,"Italian Kabasa Feast",Kabasa,Olives
+79,"Weston Dearden",14420,168.27,"Italian Kabasa Feast",Kabasa,Olives
+190,"Martainn Van Zon",17137,168.27,"Italian Kabasa Feast",Kabasa,Olives
+190,"Martainn Van Zon",17159,168.27,"Italian Kabasa Feast",Kabasa,Olives
+714,"Konrad Standering",18291,168.27,"Italian Kabasa Feast",Kabasa,Olives
+427,"Garek Gearty",2353,168.27,"Greek Salad Delight","Greek salad",Minestrone
+84,"Cathe Snar",7028,168.27,"Greek Salad Delight","Greek salad",Minestrone
+84,"Cathe Snar",7050,168.27,"Greek Salad Delight","Greek salad",Minestrone
+88,"Webster Lomax",7498,168.27,"Greek Salad Delight","Greek salad",Minestrone
+88,"Webster Lomax",7509,168.27,"Greek Salad Delight","Greek salad",Minestrone
+731,"Carlin Brabon",8101,168.27,"Greek Salad Delight","Greek salad",Minestrone
+731,"Carlin Brabon",8123,168.27,"Greek Salad Delight","Greek salad",Minestrone
+13,"Christoper Myrkus",10294,168.27,"Greek Salad Delight","Greek salad",Minestrone
+13,"Christoper Myrkus",10316,168.27,"Greek Salad Delight","Greek salad",Minestrone
+228,"Tildy Shanks",13028,168.27,"Greek Salad Delight","Greek salad",Minestrone
+228,"Tildy Shanks",13050,168.27,"Greek Salad Delight","Greek salad",Minestrone
+921,"Kelbee Illesley",14094,168.27,"Greek Salad Delight","Greek salad",Minestrone
+921,"Kelbee Illesley",14127,168.27,"Greek Salad Delight","Greek salad",Minestrone
+964,"Charin Pinckard",14367,168.27,"Greek Salad Delight","Greek salad",Minestrone
+964,"Charin Pinckard",14378,168.27,"Greek Salad Delight","Greek salad",Minestrone
+383,"Theadora Huetson",16943,168.27,"Greek Salad Delight","Greek salad",Minestrone
+383,"Theadora Huetson",16965,168.27,"Greek Salad Delight","Greek salad",Minestrone
+815,"Eva Dulake",18925,168.27,"Greek Salad Delight","Greek salad",Minestrone
+815,"Eva Dulake",18958,168.27,"Greek Salad Delight","Greek salad",Minestrone
+870,"Maressa Fruish",19990,168.27,"Greek Salad Delight","Greek salad",Minestrone
+870,"Maressa Fruish",20012,168.27,"Greek Salad Delight","Greek salad",Minestrone
+884,"Henrie Karolovsky",20795,168.27,"Greek Salad Delight","Greek salad",Minestrone
+884,"Henrie Karolovsky",20806,168.27,"Greek Salad Delight","Greek salad",Minestrone
+111,"Anjela Shobrook",20901,168.27,"Greek Salad Delight","Greek salad",Minestrone
+111,"Anjela Shobrook",20912,168.27,"Greek Salad Delight","Greek salad",Minestrone
+396,"Marillin Dennehy",57,168.27,"Italian Pizza Combo",Pizza,Falafel
+396,"Marillin Dennehy",90,168.27,"Italian Pizza Combo",Pizza,Falafel
+459,"Jacky Shapero",985,168.27,"Italian Pizza Combo",Pizza,Falafel
+459,"Jacky Shapero",1007,168.27,"Italian Pizza Combo",Pizza,Falafel
+785,"Jakie Bullan",1619,168.27,"Italian Pizza Combo",Pizza,Falafel
+785,"Jakie Bullan",1652,168.27,"Italian Pizza Combo",Pizza,Falafel
+19,"Reg Lepper",1967,168.27,"Italian Pizza Combo",Pizza,Falafel
+19,"Reg Lepper",1989,168.27,"Italian Pizza Combo",Pizza,Falafel
+359,"Brandon Cocklie",6096,168.27,"Italian Pizza Combo",Pizza,Falafel
+359,"Brandon Cocklie",6107,168.27,"Italian Pizza Combo",Pizza,Falafel
+353,"Ernestine Merrgen",7305,168.27,"Italian Pizza Combo",Pizza,Falafel
+353,"Ernestine Merrgen",7327,168.27,"Italian Pizza Combo",Pizza,Falafel
+67,"Julie Brandes",8429,168.27,"Italian Pizza Combo",Pizza,Falafel
+67,"Julie Brandes",8440,168.27,"Italian Pizza Combo",Pizza,Falafel
+90,"Darby McLae",8845,168.27,"Italian Pizza Combo",Pizza,Falafel
+90,"Darby McLae",8856,168.27,"Italian Pizza Combo",Pizza,Falafel
+401,"Ephrem Steers",8931,168.27,"Italian Pizza Combo",Pizza,Falafel
+401,"Ephrem Steers",8953,168.27,"Italian Pizza Combo",Pizza,Falafel
+369,"Dietrich Feetham",9684,168.27,"Italian Pizza Combo",Pizza,Falafel
+369,"Dietrich Feetham",9695,168.27,"Italian Pizza Combo",Pizza,Falafel
+250,"Katrina Aylett",9871,168.27,"Italian Pizza Combo",Pizza,Falafel
+968,"Jenilee Ricardou",16101,168.27,"Italian Pizza Combo",Pizza,Falafel
+968,"Jenilee Ricardou",16145,168.27,"Italian Pizza Combo",Pizza,Falafel
+514,"Merwin Pikhno",16195,168.27,"Italian Pizza Combo",Pizza,Falafel
+514,"Merwin Pikhno",16217,168.27,"Italian Pizza Combo",Pizza,Falafel
+580,"Lucais Sewards",1030,168.27,"Greek Salad Combo","Greek salad",Flatbread
+580,"Lucais Sewards",1052,168.27,"Greek Salad Combo","Greek salad",Flatbread
+407,"Judy Swainson",2486,168.27,"Greek Salad Combo","Greek salad",Flatbread
+407,"Judy Swainson",2508,168.27,"Greek Salad Combo","Greek salad",Flatbread
+44,"Lauralee Beteriss",4019,168.27,"Greek Salad Combo","Greek salad",Flatbread
+44,"Lauralee Beteriss",4052,168.27,"Greek Salad Combo","Greek salad",Flatbread
+177,"Flem Haibel",6122,168.27,"Greek Salad Combo","Greek salad",Flatbread
+442,"Candy Simoncelli",10923,168.27,"Greek Salad Combo","Greek salad",Flatbread
+442,"Candy Simoncelli",10934,168.27,"Greek Salad Combo","Greek salad",Flatbread
+490,"Hurlee Dhennin",11366,168.27,"Greek Salad Combo","Greek salad",Flatbread
+490,"Hurlee Dhennin",11377,168.27,"Greek Salad Combo","Greek salad",Flatbread
+889,"Yorgos Staite",15316,168.27,"Greek Salad Combo","Greek salad",Flatbread
+889,"Yorgos Staite",15338,168.27,"Greek Salad Combo","Greek salad",Flatbread
+595,"Jillene Maro",15885,168.27,"Greek Salad Combo","Greek salad",Flatbread
+595,"Jillene Maro",15896,168.27,"Greek Salad Combo","Greek salad",Flatbread
+392,"Josephine Archer",18684,168.27,"Greek Salad Combo","Greek salad",Flatbread
+392,"Josephine Archer",18706,168.27,"Greek Salad Combo","Greek salad",Flatbread
+640,"Bentley Gwyneth",18830,168.27,"Greek Salad Combo","Greek salad",Flatbread
+640,"Bentley Gwyneth",18852,168.27,"Greek Salad Combo","Greek salad",Flatbread
+147,"Steward Pettinger",19263,168.27,"Greek Salad Combo","Greek salad",Flatbread
+147,"Steward Pettinger",19274,168.27,"Greek Salad Combo","Greek salad",Flatbread
+5,"Jill O'Sirin",19406,168.27,"Greek Salad Combo","Greek salad",Flatbread
+5,"Jill O'Sirin",19417,168.27,"Greek Salad Combo","Greek salad",Flatbread
+539,"Cathleen Gooday",1476,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+539,"Cathleen Gooday",1487,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+441,"Bertrand Bilton",2003,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+441,"Bertrand Bilton",2014,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+662,"Celinda Mamwell",2572,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+662,"Celinda Mamwell",2616,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+143,"Giselle Abrahart",7716,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+143,"Giselle Abrahart",7727,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+702,"Peggie Biddles",8443,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+702,"Peggie Biddles",8465,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+688,"Far Emmanuele",10813,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+688,"Far Emmanuele",10846,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+804,"Adham Heyns",11680,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+804,"Adham Heyns",11691,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+775,"Chauncey Barrott",14892,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+775,"Chauncey Barrott",14914,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+3,"Eba Harriagn",15020,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+3,"Eba Harriagn",15031,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+807,"Gusella Wadeling",15245,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+807,"Gusella Wadeling",15267,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+556,"Cecilia Swinbourne",18292,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+529,"Nelli Myrie",19773,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+529,"Nelli Myrie",19795,168.27,"Italian Pizza Special",Pizza,"Tomato bread"
+344,"Ram Chaudhry",1964,168.27,"Greek Kabasa Special",Kabasa,Hummus
+344,"Ram Chaudhry",1986,168.27,"Greek Kabasa Special",Kabasa,Hummus
+603,"Alyse Pimlett",3155,168.27,"Greek Kabasa Special",Kabasa,Hummus
+603,"Alyse Pimlett",3177,168.27,"Greek Kabasa Special",Kabasa,Hummus
+698,"Row Colchett",4082,168.27,"Greek Kabasa Special",Kabasa,Hummus
+698,"Row Colchett",4093,168.27,"Greek Kabasa Special",Kabasa,Hummus
+418,"Wakefield Strotton",11160,168.27,"Greek Kabasa Special",Kabasa,Hummus
+418,"Wakefield Strotton",11171,168.27,"Greek Kabasa Special",Kabasa,Hummus
+579,"Mickie Alred",12670,168.27,"Greek Kabasa Special",Kabasa,Hummus
+579,"Mickie Alred",12692,168.27,"Greek Kabasa Special",Kabasa,Hummus
+716,"Worth Laweles",15296,168.27,"Greek Kabasa Special",Kabasa,Hummus
+716,"Worth Laweles",15307,168.27,"Greek Kabasa Special",Kabasa,Hummus
+203,"Agretha Dutteridge",15361,168.27,"Greek Kabasa Special",Kabasa,Hummus
+203,"Agretha Dutteridge",15372,168.27,"Greek Kabasa Special",Kabasa,Hummus
+596,"Wynnie Feronet",16592,168.27,"Greek Kabasa Special",Kabasa,Hummus
+596,"Wynnie Feronet",16603,168.27,"Greek Kabasa Special",Kabasa,Hummus
+126,"Kalindi Ryman",17695,168.27,"Greek Kabasa Special",Kabasa,Hummus
+126,"Kalindi Ryman",17717,168.27,"Greek Kabasa Special",Kabasa,Hummus
+897,"Filmer Floyd",18418,168.27,"Greek Kabasa Special",Kabasa,Hummus
+897,"Filmer Floyd",18429,168.27,"Greek Kabasa Special",Kabasa,Hummus
+21,"Nicole Linnit",18691,168.27,"Greek Kabasa Special",Kabasa,Hummus
+371,"Malinde Blunn",19934,168.27,"Greek Kabasa Special",Kabasa,Hummus
+371,"Malinde Blunn",19945,168.27,"Greek Kabasa Special",Kabasa,Hummus
+809,"Brit Northfield",665,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+809,"Brit Northfield",698,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+406,"Florinda Cellier",1094,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+406,"Florinda Cellier",1116,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+255,"Hermione Crix",1878,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+255,"Hermione Crix",1889,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+797,"Kali Avis",2758,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+797,"Kali Avis",2769,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+746,"Camille Symmons",3682,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+746,"Camille Symmons",3704,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+566,"Forester Buxcey",4572,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+566,"Forester Buxcey",4594,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+669,"Ara McWard",5839,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+507,"Maryellen Gligori",6177,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+507,"Maryellen Gligori",6188,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+991,"Alexia Candelin",7167,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+991,"Alexia Candelin",7178,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+942,"Gordan Kneeshaw",14641,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+942,"Gordan Kneeshaw",14674,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+274,"Jacquetta Plampin",17416,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+274,"Jacquetta Plampin",17460,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+586,"Paloma Spellar",20096,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+586,"Paloma Spellar",20118,168.27,"Italian Greek Salad Delight","Greek salad",Flatbread
+403,"Odilia Bockett",232,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+999,"Waylan Grieve",3979,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+999,"Waylan Grieve",3990,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+874,"Elvina McGlynn",5069,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+874,"Elvina McGlynn",5091,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+644,"Araldo Bramhall",6391,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+644,"Araldo Bramhall",6402,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+835,"Westbrooke Blindt",8402,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+835,"Westbrooke Blindt",8413,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+583,"Beret Behneke",10548,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+583,"Beret Behneke",10570,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+494,"Pansie Alldis",11474,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+494,"Pansie Alldis",11485,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+282,"Alexandr McGill",11622,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+282,"Alexandr McGill",11633,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+424,"Mattie Brenston",12454,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+424,"Mattie Brenston",12476,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+155,"Mathew Groucutt",13193,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+155,"Mathew Groucutt",13204,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+656,"Linus Gresham",15152,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+553,"Maddie Raw",15977,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+553,"Maddie Raw",16010,168.27,"Greek Pizza Special",Pizza,"Tomato bread"
+50,"Sabina Corneille",58,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+50,"Sabina Corneille",91,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+962,"Hakeem Leadston",3656,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+962,"Hakeem Leadston",3667,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+699,"Egbert Mollnar",5189,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+699,"Egbert Mollnar",5200,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+534,"Raymond Cranage",5776,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+534,"Raymond Cranage",5787,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+805,"Sue Fargie",5883,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+805,"Sue Fargie",5894,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+169,"Hale Danilchik",6709,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+169,"Hale Danilchik",6720,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+523,"Roosevelt Grigg",6976,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+523,"Roosevelt Grigg",6987,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+124,"Karissa Sancraft",9401,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+124,"Karissa Sancraft",9434,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+867,"Ardenia Lobb",9954,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+943,"Pauline Danihelka",13951,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+943,"Pauline Danihelka",13995,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+555,"Alberik Fancy",14116,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+555,"Alberik Fancy",14149,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+363,"Elliott Avard",16178,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+363,"Elliott Avard",16189,168.27,"Italian Kabasa Delight",Kabasa,Hummus
+166,"Ariadne Copeland",2207,168.27,"Greek Salad Special","Greek salad",Olives
+112,"Launce Sowerbutts",1201,168.27,"Greek Salad Feast","Greek salad",Hummus
+112,"Launce Sowerbutts",1223,168.27,"Greek Salad Feast","Greek salad",Hummus
+410,"Annamarie Taylot",12289,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+166,"Ariadne Copeland",2218,168.27,"Greek Salad Special","Greek salad",Olives
+465,"Mady McMennum",6587,168.27,"Greek Pizza Delight",Pizza,Flatbread
+510,"Rubin Ind",1386,168.27,"Greek Salad Feast","Greek salad",Hummus
+346,"Tedda Plumridge",8834,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+954,"Sheela Stein",10387,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+500,"Granville Mallison",3093,168.27,"Greek Salad Special","Greek salad",Olives
+776,"Dniren Copperwaite",14768,168.27,"Greek Pizza Delight",Pizza,Flatbread
+346,"Tedda Plumridge",8823,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+452,"Nickolai Balmer",8692,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+500,"Granville Mallison",3104,168.27,"Greek Salad Special","Greek salad",Olives
+954,"Sheela Stein",10376,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+94,"Ally McBrearty",9827,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+51,"Griz Tawse",3785,168.27,"Greek Salad Special","Greek salad",Olives
+94,"Ally McBrearty",9794,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+452,"Nickolai Balmer",8659,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+510,"Rubin Ind",1419,168.27,"Greek Salad Feast","Greek salad",Hummus
+51,"Griz Tawse",3807,168.27,"Greek Salad Special","Greek salad",Olives
+927,"Dacey Witherden",9448,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+927,"Dacey Witherden",9415,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+777,"Biddy Spadoni",7072,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+751,"Sandor Barradell",6479,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+934,"Desiri Issac",4845,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+777,"Biddy Spadoni",7061,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+825,"Callie Dunning",4767,168.27,"Greek Salad Special","Greek salad",Olives
+934,"Desiri Issac",4834,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+763,"Renato Paulin",4133,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+412,"Bobby Blazewski",5554,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+707,"Laney Fadden",5523,168.27,"Greek Salad Special","Greek salad",Olives
+763,"Renato Paulin",4122,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+473,"Cal Rorke",3140,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+412,"Bobby Blazewski",5510,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+707,"Laney Fadden",5567,168.27,"Greek Salad Special","Greek salad",Olives
+473,"Cal Rorke",3118,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+912,"Constantina Mottley",3652,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+180,"Uriel Grooby",823,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+180,"Uriel Grooby",801,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+912,"Constantina Mottley",3630,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+979,"Cyril Copelli",5911,168.27,"Greek Salad Special","Greek salad",Olives
+350,"Marillin Tieman",360,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+350,"Marillin Tieman",338,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+46,"Kissie Gosford",20864,168.27,"Italian Pizza Special",Pizza,Olives
+979,"Cyril Copelli",5922,168.27,"Greek Salad Special","Greek salad",Olives
+149,"Desdemona Dobbinson",7382,168.27,"Greek Salad Special","Greek salad",Olives
+521,"Maybelle Bellows",15952,168.27,"Greek Pizza Delight",Pizza,Flatbread
+31,"Fielding Struys",20571,168.27,"Italian Pizza Special",Pizza,Olives
+31,"Fielding Struys",20560,168.27,"Italian Pizza Special",Pizza,Olives
+149,"Desdemona Dobbinson",7426,168.27,"Greek Salad Special","Greek salad",Olives
+958,"Othella Flood",19558,168.27,"Italian Pizza Special",Pizza,Olives
+958,"Othella Flood",19525,168.27,"Italian Pizza Special",Pizza,Olives
+622,"Eyde Ellerton",19189,168.27,"Italian Pizza Special",Pizza,Olives
+622,"Eyde Ellerton",19178,168.27,"Italian Pizza Special",Pizza,Olives
+129,"Sindee Drynan",8175,168.27,"Greek Salad Special","Greek salad",Olives
+989,"Essie Hagland",18149,168.27,"Italian Pizza Special",Pizza,Olives
+989,"Essie Hagland",18127,168.27,"Italian Pizza Special",Pizza,Olives
+139,"Zita Coldbath",17093,168.27,"Italian Pizza Special",Pizza,Olives
+129,"Sindee Drynan",8186,168.27,"Greek Salad Special","Greek salad",Olives
+139,"Zita Coldbath",17082,168.27,"Italian Pizza Special",Pizza,Olives
+862,"Dennie Lilloe",16478,168.27,"Italian Pizza Special",Pizza,Olives
+862,"Dennie Lilloe",16456,168.27,"Italian Pizza Special",Pizza,Olives
+95,"Arthur Mathewson",8707,168.27,"Greek Salad Special","Greek salad",Olives
+857,"Emera Whitewood",14339,168.27,"Italian Pizza Special",Pizza,Olives
+857,"Emera Whitewood",14317,168.27,"Italian Pizza Special",Pizza,Olives
+721,"Sully Cunney",13472,168.27,"Italian Pizza Special",Pizza,Olives
+95,"Arthur Mathewson",8729,168.27,"Greek Salad Special","Greek salad",Olives
+249,"Bree Bleas",12968,168.27,"Italian Pizza Special",Pizza,Olives
+871,"Christoforo Vagg",9022,168.27,"Greek Salad Special","Greek salad",Olives
+249,"Bree Bleas",12946,168.27,"Italian Pizza Special",Pizza,Olives
+520,"Kerri Barnes",10470,168.27,"Italian Pizza Special",Pizza,Olives
+520,"Kerri Barnes",10459,168.27,"Italian Pizza Special",Pizza,Olives
+871,"Christoforo Vagg",9055,168.27,"Greek Salad Special","Greek salad",Olives
+388,"Kathleen Mac Giolla Pheadair",10450,168.27,"Italian Pizza Special",Pizza,Olives
+388,"Kathleen Mac Giolla Pheadair",10439,168.27,"Italian Pizza Special",Pizza,Olives
+253,"Derry Davis",7529,168.27,"Italian Pizza Special",Pizza,Olives
+391,"Sid Oultram",3612,168.27,"Italian Pizza Special",Pizza,Olives
+609,"Barnabas Casson",10172,168.27,"Greek Salad Special","Greek salad",Olives
+781,"Locke Janaway",3305,168.27,"Greek Salad Feast","Greek salad",Hummus
+391,"Sid Oultram",3601,168.27,"Italian Pizza Special",Pizza,Olives
+125,"Celle Oller",2697,168.27,"Italian Pizza Special",Pizza,Olives
+609,"Barnabas Casson",10183,168.27,"Greek Salad Special","Greek salad",Olives
+125,"Celle Oller",2675,168.27,"Italian Pizza Special",Pizza,Olives
+816,"Halette O'Hanley",9517,168.27,"Greek Pizza Delight",Pizza,Flatbread
+146,"Karee Colchett",2261,168.27,"Italian Pizza Special",Pizza,Olives
+561,"Paddie Tellenbrok",11554,168.27,"Greek Salad Special","Greek salad",Olives
+146,"Karee Colchett",2250,168.27,"Italian Pizza Special",Pizza,Olives
+774,"Berenice Marples",1718,168.27,"Italian Pizza Special",Pizza,Olives
+774,"Berenice Marples",1696,168.27,"Italian Pizza Special",Pizza,Olives
+561,"Paddie Tellenbrok",11587,168.27,"Greek Salad Special","Greek salad",Olives
+749,"Staci Coppens",608,168.27,"Italian Pizza Special",Pizza,Olives
+546,"Bibbie Bover",11858,168.27,"Greek Salad Special","Greek salad",Olives
+749,"Staci Coppens",586,168.27,"Italian Pizza Special",Pizza,Olives
+93,"Everard Trasler",19150,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+93,"Everard Trasler",19139,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+546,"Bibbie Bover",11880,168.27,"Greek Salad Special","Greek salad",Olives
+160,"Johnette Haitlie",18144,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+821,"Ginevra Pally",14848,168.27,"Greek Salad Special","Greek salad",Olives
+343,"Horatio Lundy",15798,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+343,"Horatio Lundy",15776,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+343,"Horatio Lundy",15772,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+821,"Ginevra Pally",14859,168.27,"Greek Salad Special","Greek salad",Olives
+781,"Locke Janaway",3316,168.27,"Greek Salad Feast","Greek salad",Hummus
+361,"Boot Burree",1687,168.27,"Greek Pizza Delight",Pizza,Flatbread
+105,"Aurie Unthank",13558,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+759,"Araldo Gutman",16492,168.27,"Greek Salad Special","Greek salad",Olives
+105,"Aurie Unthank",13547,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+540,"Andonis Rawling",20030,168.27,"Italian Pizza Combo",Pizza,Flatbread
+727,"Shelbi Grishakov",12801,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+759,"Araldo Gutman",16514,168.27,"Greek Salad Special","Greek salad",Olives
+894,"Adah Adamczewski",19467,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+727,"Shelbi Grishakov",12790,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+275,"Nels Ordish",12785,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+275,"Nels Ordish",12774,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+540,"Andonis Rawling",20019,168.27,"Italian Pizza Combo",Pizza,Flatbread
+301,"Doug Logg",17441,168.27,"Greek Salad Special","Greek salad",Olives
+521,"Maybelle Bellows",15941,168.27,"Greek Pizza Delight",Pizza,Flatbread
+390,"Thorin Jolliman",12712,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+119,"Elfrieda Umbers",4605,168.27,"Greek Salad Feast","Greek salad",Hummus
+301,"Doug Logg",17485,168.27,"Greek Salad Special","Greek salad",Olives
+894,"Adah Adamczewski",19456,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+201,"Willow Burmingham",17733,168.27,"Greek Salad Special","Greek salad",Olives
+264,"Cornela LaBastida",18620,168.27,"Italian Pizza Combo",Pizza,Flatbread
+96,"Pincas Stearn",1187,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+119,"Elfrieda Umbers",4627,168.27,"Greek Salad Feast","Greek salad",Hummus
+201,"Willow Burmingham",17755,168.27,"Greek Salad Special","Greek salad",Olives
+48,"Adelheid Casolla",5021,168.27,"Greek Salad Feast","Greek salad",Hummus
+264,"Cornela LaBastida",18609,168.27,"Italian Pizza Combo",Pizza,Flatbread
+448,"Richie Brydson",1434,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+776,"Dniren Copperwaite",14779,168.27,"Greek Pizza Delight",Pizza,Flatbread
+331,"Giffy Wreath",16166,168.27,"Italian Pizza Combo",Pizza,Flatbread
+122,"Ondrea Keyser",19877,168.27,"Greek Salad Special","Greek salad",Olives
+956,"Melita Drinkale",19168,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+448,"Richie Brydson",1456,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+848,"Tamarah Filasov",4454,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+331,"Giffy Wreath",16122,168.27,"Italian Pizza Combo",Pizza,Flatbread
+569,"Veronique Caramuscia",14193,168.27,"Italian Pizza Combo",Pizza,Flatbread
+415,"Ravid Josephsen",8737,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+569,"Veronique Caramuscia",14171,168.27,"Italian Pizza Combo",Pizza,Flatbread
+812,"Todd Riglesford",2799,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+48,"Adelheid Casolla",5043,168.27,"Greek Salad Feast","Greek salad",Hummus
+956,"Melita Drinkale",19157,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+311,"Brook Rainger",13144,168.27,"Italian Pizza Combo",Pizza,Flatbread
+812,"Todd Riglesford",2832,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+625,"Yorgo Muzzillo",4484,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+848,"Tamarah Filasov",4465,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+679,"Selia Grigoroni",8948,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+311,"Brook Rainger",13133,168.27,"Italian Pizza Combo",Pizza,Flatbread
+625,"Yorgo Muzzillo",4517,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+163,"Natty Murt",19130,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+923,"Madlin McGrory",7081,168.27,"Greek Salad Feast","Greek salad",Hummus
+73,"Carroll Tear",12918,168.27,"Italian Pizza Combo",Pizza,Flatbread
+101,"Isidro Chelam",18499,168.27,"Greek Salad Feast","Greek salad",Hummus
+432,"Durand Kitt",20237,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+73,"Carroll Tear",12896,168.27,"Italian Pizza Combo",Pizza,Flatbread
+356,"Sherilyn Ilewicz",4734,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+163,"Natty Murt",19097,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+923,"Madlin McGrory",7092,168.27,"Greek Salad Feast","Greek salad",Hummus
+937,"Aime Ferry",12425,168.27,"Italian Pizza Combo",Pizza,Flatbread
+356,"Sherilyn Ilewicz",4745,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+691,"Steward Lavies",5250,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+365,"Erika Greensmith",19816,168.27,"Greek Salad Feast","Greek salad",Hummus
+937,"Aime Ferry",12403,168.27,"Italian Pizza Combo",Pizza,Flatbread
+519,"King Hillin",4956,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+432,"Durand Kitt",20215,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+313,"Rafferty Guyonneau",18075,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+254,"Madelin Giacomi",7298,168.27,"Greek Salad Feast","Greek salad",Hummus
+357,"Sterne Salterne",19066,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+12,"Ezequiel Benion",8237,168.27,"Italian Pizza Combo",Pizza,Flatbread
+683,"Hilary Pudner",6835,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+782,"Cathee Briscam",6325,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+415,"Ravid Josephsen",8748,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+12,"Ezequiel Benion",8215,168.27,"Italian Pizza Combo",Pizza,Flatbread
+683,"Hilary Pudner",6857,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+313,"Rafferty Guyonneau",18053,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+357,"Sterne Salterne",19033,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+947,"Gabey Macewan",16399,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+316,"Maison Shoreson",7113,168.27,"Italian Pizza Combo",Pizza,Flatbread
+226,"Padraic Zanutti",7865,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+782,"Cathee Briscam",6336,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+544,"Kristian Beeken",20622,168.27,"Greek Salad Feast","Greek salad",Hummus
+390,"Thorin Jolliman",12723,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+316,"Maison Shoreson",7102,168.27,"Italian Pizza Combo",Pizza,Flatbread
+226,"Padraic Zanutti",7887,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+254,"Madelin Giacomi",7320,168.27,"Greek Salad Feast","Greek salad",Hummus
+916,"Devland Pagett",18741,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+852,"Noni Quickenden",6909,168.27,"Italian Pizza Combo",Pizza,Flatbread
+947,"Gabey Macewan",16388,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+852,"Noni Quickenden",6887,168.27,"Italian Pizza Combo",Pizza,Flatbread
+451,"Grenville Bottomore",8534,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+470,"Elayne Karet",9090,168.27,"Greek Salad Feast","Greek salad",Hummus
+658,"Danyelle Butts",7798,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+41,"Caterina Sweetnam",4867,168.27,"Italian Pizza Combo",Pizza,Flatbread
+451,"Grenville Bottomore",8545,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+916,"Devland Pagett",18719,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+816,"Halette O'Hanley",9528,168.27,"Greek Pizza Delight",Pizza,Flatbread
+977,"Ethelbert Cordeux",10541,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+470,"Elayne Karet",9112,168.27,"Greek Salad Feast","Greek salad",Hummus
+41,"Caterina Sweetnam",4856,168.27,"Italian Pizza Combo",Pizza,Flatbread
+910,"Fairfax Seniour",10001,168.27,"Greek Salad Feast","Greek salad",Hummus
+808,"Tasia Fautly",8914,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+658,"Danyelle Butts",7809,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+629,"Gabe Boyan",16047,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+522,"Rivi Bowart",2531,168.27,"Italian Pizza Combo",Pizza,Flatbread
+365,"Erika Greensmith",19838,168.27,"Greek Salad Feast","Greek salad",Hummus
+808,"Tasia Fautly",8925,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+779,"Vale Norwood",9473,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+818,"Lisle Scamadin",8028,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+678,"Ximenes Carnachen",104,168.27,"Italian Pizza Combo",Pizza,Flatbread
+679,"Selia Grigoroni",8926,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+629,"Gabe Boyan",16025,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+779,"Vale Norwood",9495,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+378,"Virgie Belhomme",15587,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+678,"Ximenes Carnachen",71,168.27,"Italian Pizza Combo",Pizza,Flatbread
+161,"Lind Haggath",911,168.27,"Greek Pizza Delight",Pizza,Flatbread
+910,"Fairfax Seniour",10012,168.27,"Greek Salad Feast","Greek salad",Hummus
+410,"Annamarie Taylot",12300,168.27,"Italian Greek Salad Delight","Greek salad",Hummus
+654,"Saw Aspenlon",15793,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+471,"Burgess Hancill",12011,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+818,"Lisle Scamadin",8050,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+361,"Boot Burree",1709,168.27,"Greek Pizza Delight",Pizza,Flatbread
+194,"Hinda Giacopetti",10112,168.27,"Greek Pizza Delight",Pizza,Flatbread
+471,"Burgess Hancill",12044,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+913,"Fanni Caccavella",9955,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+378,"Virgie Belhomme",15565,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+541,"Anastasia Baudy",452,168.27,"Greek Pizza Delight",Pizza,Flatbread
+713,"Douglas O' Cloney",10543,168.27,"Greek Pizza Delight",Pizza,Flatbread
+159,"Adria Heller",12211,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+450,"Terencio Loche",14492,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+458,"Braden Bartolacci",13222,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+682,"Devonne Whal",16465,168.27,"Greek Salad Feast","Greek salad",Hummus
+849,"Gage Tocknell",19790,168.27,"Italian Kabasa Special",Kabasa,Falafel
+159,"Adria Heller",12222,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+503,"Devonne Yanuk",19603,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+772,"Shannon Osban",8649,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+458,"Braden Bartolacci",13211,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+849,"Gage Tocknell",19768,168.27,"Italian Kabasa Special",Kabasa,Falafel
+81,"Nerty Green",16311,168.27,"Italian Kabasa Special",Kabasa,Falafel
+503,"Devonne Yanuk",19658,168.27,"Greek Kabasa Feast",Kabasa,Falafel
+977,"Ethelbert Cordeux",10530,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+81,"Nerty Green",16278,168.27,"Italian Kabasa Special",Kabasa,Falafel
+298,"Blancha Trippack",15554,168.27,"Italian Kabasa Special",Kabasa,Falafel
+165,"Amye Limbert",10097,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+298,"Blancha Trippack",15543,168.27,"Italian Kabasa Special",Kabasa,Falafel
+466,"Harlie Jindracek",472,168.27,"Italian Pizza Feast",Pizza,Minestrone
+167,"Tiertza Barford",15406,168.27,"Italian Kabasa Special",Kabasa,Falafel
+165,"Amye Limbert",10086,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+167,"Tiertza Barford",15384,168.27,"Italian Kabasa Special",Kabasa,Falafel
+466,"Harlie Jindracek",483,168.27,"Italian Pizza Feast",Pizza,Minestrone
+72,"Tammara Burgyn",632,168.27,"Italian Pizza Feast",Pizza,Minestrone
+58,"Ario Meekin",14237,168.27,"Italian Kabasa Special",Kabasa,Falafel
+562,"Damiano Yurasov",8122,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+183,"Gawain Willmont",13584,168.27,"Italian Kabasa Special",Kabasa,Falafel
+72,"Tammara Burgyn",643,168.27,"Italian Pizza Feast",Pizza,Minestrone
+183,"Gawain Willmont",13573,168.27,"Italian Kabasa Special",Kabasa,Falafel
+562,"Damiano Yurasov",8100,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+673,"Darla Kubacek",13355,168.27,"Italian Kabasa Special",Kabasa,Falafel
+387,"Sherm Probat",7585,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+86,"Rana Rait",3205,168.27,"Italian Pizza Feast",Pizza,Minestrone
+673,"Darla Kubacek",13344,168.27,"Italian Kabasa Special",Kabasa,Falafel
+538,"Alison Jamieson",748,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+387,"Sherm Probat",7552,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+86,"Rana Rait",3227,168.27,"Italian Pizza Feast",Pizza,Minestrone
+334,"Sharai MacMenamin",12075,168.27,"Italian Kabasa Special",Kabasa,Falafel
+976,"Annaliese Cowill",4898,168.27,"Italian Pizza Feast",Pizza,Minestrone
+538,"Alison Jamieson",770,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+334,"Sharai MacMenamin",12064,168.27,"Italian Kabasa Special",Kabasa,Falafel
+214,"Ingamar Forker",7466,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+976,"Annaliese Cowill",4909,168.27,"Italian Pizza Feast",Pizza,Minestrone
+450,"Terencio Loche",14459,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+195,"Durante Bullers",1559,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+577,"Ely Doodson",944,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+193,"Horatio Codi",5618,168.27,"Italian Kabasa Special",Kabasa,Falafel
+545,"Tiffani Halstead",6779,168.27,"Italian Pizza Feast",Pizza,Minestrone
+195,"Durante Bullers",1570,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+577,"Ely Doodson",933,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+193,"Horatio Codi",5596,168.27,"Italian Kabasa Special",Kabasa,Falafel
+545,"Tiffani Halstead",6801,168.27,"Italian Pizza Feast",Pizza,Minestrone
+914,"Anny Pattemore",726,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+615,"Hamnet Coultas",2875,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+832,"Faith Grushin",8363,168.27,"Italian Pizza Feast",Pizza,Minestrone
+607,"Ferguson Wilcocke",4422,168.27,"Italian Kabasa Special",Kabasa,Falafel
+615,"Hamnet Coultas",2897,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+607,"Ferguson Wilcocke",4411,168.27,"Italian Kabasa Special",Kabasa,Falafel
+832,"Faith Grushin",8396,168.27,"Italian Pizza Feast",Pizza,Minestrone
+372,"Sherye Christmas",14,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+674,"Fidelity Banham",10128,168.27,"Italian Pizza Feast",Pizza,Minestrone
+496,"Melisandra Mungham",2975,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+612,"Jackelyn Jacox",4255,168.27,"Italian Kabasa Special",Kabasa,Falafel
+372,"Sherye Christmas",3,168.27,"Greek Kabasa Combo",Kabasa,"Tomato bread"
+674,"Fidelity Banham",10139,168.27,"Italian Pizza Feast",Pizza,Minestrone
+496,"Melisandra Mungham",2997,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+612,"Jackelyn Jacox",4244,168.27,"Italian Kabasa Special",Kabasa,Falafel
+851,"Obidiah Zanicchi",5214,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+370,"Donni Tatem",12404,168.27,"Italian Pizza Feast",Pizza,Minestrone
+535,"Rici Bollin",2304,168.27,"Italian Kabasa Special",Kabasa,Falafel
+851,"Obidiah Zanicchi",5225,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+535,"Rici Bollin",2293,168.27,"Italian Kabasa Special",Kabasa,Falafel
+370,"Donni Tatem",12426,168.27,"Italian Pizza Feast",Pizza,Minestrone
+352,"Lawrence O'Cahey",15851,168.27,"Greek Pizza Delight",Pizza,Flatbread
+435,"Maisie Matyushkin",5512,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+907,"Lia Bonar",12993,168.27,"Italian Pizza Feast",Pizza,Minestrone
+42,"Margarita Mancktelow",409,168.27,"Italian Kabasa Special",Kabasa,Falafel
+435,"Maisie Matyushkin",5556,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+42,"Margarita Mancktelow",387,168.27,"Italian Kabasa Special",Kabasa,Falafel
+907,"Lia Bonar",13015,168.27,"Italian Pizza Feast",Pizza,Minestrone
+42,"Margarita Mancktelow",379,168.27,"Italian Kabasa Special",Kabasa,Falafel
+802,"Jaynell Alty",13938,168.27,"Italian Pizza Feast",Pizza,Minestrone
+366,"Marcelia Kerswell",4381,168.27,"Greek Pizza Delight",Pizza,Flatbread
+23,"Lorne Boldry",10307,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+161,"Lind Haggath",922,168.27,"Greek Pizza Delight",Pizza,Flatbread
+802,"Jaynell Alty",13982,168.27,"Italian Pizza Feast",Pizza,Minestrone
+23,"Lorne Boldry",10329,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+767,"Flynn Magnay",10333,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+713,"Douglas O' Cloney",10565,168.27,"Greek Pizza Delight",Pizza,Flatbread
+767,"Flynn Magnay",10344,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+196,"Virginie Lammas",11499,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+196,"Virginie Lammas",11521,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+446,"Ogdon Petr",15656,168.27,"Italian Pizza Feast",Pizza,Minestrone
+192,"Kristoffer Pales",12440,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+541,"Anastasia Baudy",430,168.27,"Greek Pizza Delight",Pizza,Flatbread
+192,"Kristoffer Pales",12451,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+512,"Koo Vinick",17547,168.27,"Italian Pizza Feast",Pizza,Minestrone
+858,"Mariann Ibbeson",293,168.27,"Greek Pizza Delight",Pizza,Flatbread
+14,"Tatiania O'Crigane",13913,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+101,"Isidro Chelam",18488,168.27,"Greek Salad Feast","Greek salad",Hummus
+512,"Koo Vinick",17602,168.27,"Italian Pizza Feast",Pizza,Minestrone
+366,"Marcelia Kerswell",4403,168.27,"Greek Pizza Delight",Pizza,Flatbread
+91,"Livvyy Grombridge",14458,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+933,"Morgan Gouldeby",13072,168.27,"Greek Pizza Delight",Pizza,Flatbread
+91,"Livvyy Grombridge",14491,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+876,"Julianna Jostan",15458,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+517,"Jarib Cranke",17921,168.27,"Italian Pizza Feast",Pizza,Minestrone
+876,"Julianna Jostan",15469,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+62,"Fredelia Snedden",19483,168.27,"Greek Pizza Special",Pizza,Minestrone
+227,"Mellicent Philliphs",16936,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+517,"Jarib Cranke",17932,168.27,"Italian Pizza Feast",Pizza,Minestrone
+62,"Fredelia Snedden",19472,168.27,"Greek Pizza Special",Pizza,Minestrone
+855,"Alberik Rowcastle",20308,168.27,"Italian Pizza Feast",Pizza,Minestrone
+227,"Mellicent Philliphs",16958,168.27,"Italian Kabasa Delight",Kabasa,"Tomato bread"
+328,"Reginauld Kelemen",18543,168.27,"Greek Pizza Special",Pizza,Minestrone
+996,"Melinda O'Brogan",15745,168.27,"Greek Pizza Special",Pizza,Minestrone
+855,"Alberik Rowcastle",20319,168.27,"Italian Pizza Feast",Pizza,Minestrone
+996,"Melinda O'Brogan",15712,168.27,"Greek Pizza Special",Pizza,Minestrone
+598,"Danna O'Nion",15505,168.27,"Greek Pizza Special",Pizza,Minestrone
+598,"Danna O'Nion",15483,168.27,"Greek Pizza Special",Pizza,Minestrone
+895,"Mart Malsher",15252,168.27,"Greek Pizza Special",Pizza,Minestrone
+352,"Lawrence O'Cahey",15840,168.27,"Greek Pizza Delight",Pizza,Flatbread
+895,"Mart Malsher",15230,168.27,"Greek Pizza Special",Pizza,Minestrone
+525,"Lyndel Rodwell",12760,168.27,"Greek Pizza Special",Pizza,Minestrone
+525,"Lyndel Rodwell",12749,168.27,"Greek Pizza Special",Pizza,Minestrone
+772,"Shannon Osban",8682,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+936,"Elisabetta Dubery",10497,168.27,"Greek Pizza Special",Pizza,Minestrone
+936,"Elisabetta Dubery",10486,168.27,"Greek Pizza Special",Pizza,Minestrone
+924,"Zora Hanalan",9820,168.27,"Greek Pizza Special",Pizza,Minestrone
+924,"Zora Hanalan",9787,168.27,"Greek Pizza Special",Pizza,Minestrone
+527,"Nadine Cudbird",9363,168.27,"Greek Pizza Special",Pizza,Minestrone
+527,"Nadine Cudbird",9330,168.27,"Greek Pizza Special",Pizza,Minestrone
+571,"Adamo Rumens",6741,168.27,"Greek Pizza Special",Pizza,Minestrone
+544,"Kristian Beeken",20611,168.27,"Greek Salad Feast","Greek salad",Hummus
+571,"Adamo Rumens",6730,168.27,"Greek Pizza Special",Pizza,Minestrone
+288,"Colver McChesney",4152,168.27,"Greek Pizza Special",Pizza,Minestrone
+288,"Colver McChesney",4141,168.27,"Greek Pizza Special",Pizza,Minestrone
+694,"Fred Tatersale",2432,168.27,"Greek Pizza Special",Pizza,Minestrone
+694,"Fred Tatersale",2410,168.27,"Greek Pizza Special",Pizza,Minestrone
+837,"Meg Reburn",1949,168.27,"Greek Pizza Special",Pizza,Minestrone
+837,"Meg Reburn",1938,168.27,"Greek Pizza Special",Pizza,Minestrone
+933,"Morgan Gouldeby",13083,168.27,"Greek Pizza Delight",Pizza,Flatbread
+858,"Mariann Ibbeson",282,168.27,"Greek Pizza Delight",Pizza,Flatbread
+499,"Wanda Ramas",13863,168.27,"Greek Pizza Delight",Pizza,Flatbread
+465,"Mady McMennum",6576,168.27,"Greek Pizza Delight",Pizza,Flatbread
+103,"Sheilah Maestro",13851,168.27,"Italian Greek Salad Combo","Greek salad",Olives
+882,"Chris Gummer",676,168.27,"Greek Salad Feast","Greek salad",Hummus
+499,"Wanda Ramas",13874,168.27,"Greek Pizza Delight",Pizza,Flatbread
+882,"Chris Gummer",709,168.27,"Greek Salad Feast","Greek salad",Hummus
+128,"Linus Greer",11274,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+168,"Christen Jedrachowicz",2409,168.27,"Greek Salad Delight","Greek salad",Falafel
+128,"Linus Greer",11329,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+886,"Gregg Yellowlea",12630,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+886,"Gregg Yellowlea",12641,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+134,"Gabrielle Coxall",20976,168.27,"Greek Kabasa Feast",Kabasa,Olives
+453,"Haskel Bowell",14945,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+134,"Gabrielle Coxall",20965,168.27,"Greek Kabasa Feast",Kabasa,Olives
+453,"Haskel Bowell",14967,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+107,"Viviyan Lantiff",17389,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+178,"Stan Clethro",20928,168.27,"Greek Kabasa Feast",Kabasa,Olives
+107,"Viviyan Lantiff",17400,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+178,"Stan Clethro",20917,168.27,"Greek Kabasa Feast",Kabasa,Olives
+972,"Pietra Dibdall",17418,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+267,"Noel Ladley",20679,168.27,"Greek Kabasa Feast",Kabasa,Olives
+972,"Pietra Dibdall",17462,168.27,"Greek Kabasa Delight",Kabasa,Minestrone
+267,"Noel Ladley",20657,168.27,"Greek Kabasa Feast",Kabasa,Olives
+504,"Arlette Magauran",18404,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+528,"Korney O'Carney",3876,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+176,"Winn Raynes",1282,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+241,"Delilah Ayerst",19117,168.27,"Greek Kabasa Feast",Kabasa,Olives
+547,"Kalinda Grestye",15707,168.27,"Italian Pizza Delight",Pizza,Hummus
+137,"Ainslee Feighney",13242,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+299,"Aldrich Phythien",11021,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+241,"Delilah Ayerst",19084,168.27,"Greek Kabasa Feast",Kabasa,Olives
+504,"Arlette Magauran",18415,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+791,"Leanna Chapelhow",18888,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+547,"Kalinda Grestye",15740,168.27,"Italian Pizza Delight",Pizza,Hummus
+69,"Xymenes Hands",18208,168.27,"Greek Kabasa Feast",Kabasa,Olives
+299,"Aldrich Phythien",11043,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+957,"Delly Ventum",264,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+66,"Marsiella Duprey",16554,168.27,"Italian Pizza Delight",Pizza,Hummus
+528,"Korney O'Carney",3843,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+486,"Bennett Pendered",19296,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+329,"Lucho McGerraghty",18066,168.27,"Greek Kabasa Feast",Kabasa,Olives
+875,"Leslie Noden",1021,168.27,"Greek Salad Delight","Greek salad",Falafel
+957,"Delly Ventum",253,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+329,"Lucho McGerraghty",18044,168.27,"Greek Kabasa Feast",Kabasa,Olives
+138,"Malinde Firbanks",12142,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+66,"Marsiella Duprey",16565,168.27,"Italian Pizza Delight",Pizza,Hummus
+486,"Bennett Pendered",19318,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+416,"Katy Pine",3547,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+283,"Spenser Wandless",17112,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+38,"Leonard Fuxman",16334,168.27,"Greek Kabasa Feast",Kabasa,Olives
+791,"Leanna Chapelhow",18899,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+38,"Leonard Fuxman",16323,168.27,"Greek Kabasa Feast",Kabasa,Olives
+170,"Karoline Pocock",17265,168.27,"Italian Pizza Delight",Pizza,Hummus
+715,"Devy Hookes",7774,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+416,"Katy Pine",3536,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+750,"Basil Slarke",15634,168.27,"Greek Kabasa Feast",Kabasa,Olives
+755,"Valma Brideau",8325,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+170,"Karoline Pocock",17276,168.27,"Italian Pizza Delight",Pizza,Hummus
+750,"Basil Slarke",15612,168.27,"Greek Kabasa Feast",Kabasa,Olives
+875,"Leslie Noden",1010,168.27,"Greek Salad Delight","Greek salad",Falafel
+314,"Neely Frankcomb",18667,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+648,"Paco Towersey",18363,168.27,"Italian Pizza Delight",Pizza,Hummus
+844,"Sophey Garling",19034,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+902,"Yorgos BoHlingolsen",17776,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+137,"Ainslee Feighney",13275,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+508,"Kele Bracknell",11062,168.27,"Greek Kabasa Feast",Kabasa,Olives
+582,"Morganne Brecknell",147,168.27,"Greek Salad Delight","Greek salad",Falafel
+648,"Paco Towersey",18374,168.27,"Italian Pizza Delight",Pizza,Hummus
+508,"Kele Bracknell",11051,168.27,"Greek Kabasa Feast",Kabasa,Olives
+715,"Devy Hookes",7741,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+476,"Demetris McGibbon",3456,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+960,"Maryjo Strangwood",20648,168.27,"Italian Pizza Delight",Pizza,Hummus
+687,"Andrej Wolfindale",9156,168.27,"Greek Kabasa Feast",Kabasa,Olives
+283,"Spenser Wandless",17101,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+138,"Malinde Firbanks",12153,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+960,"Maryjo Strangwood",20670,168.27,"Italian Pizza Delight",Pizza,Hummus
+687,"Andrej Wolfindale",9145,168.27,"Greek Kabasa Feast",Kabasa,Olives
+505,"Margarette Hobell",441,168.27,"Greek Salad Combo","Greek salad",Falafel
+854,"Ariadne McCrie",9127,168.27,"Greek Kabasa Feast",Kabasa,Olives
+761,"Tiertza Doogan",1627,168.27,"Greek Salad Combo","Greek salad",Falafel
+854,"Ariadne McCrie",9116,168.27,"Greek Kabasa Feast",Kabasa,Olives
+761,"Tiertza Doogan",1660,168.27,"Greek Salad Combo","Greek salad",Falafel
+426,"Carolan Di Giacomo",7884,168.27,"Greek Kabasa Feast",Kabasa,Olives
+426,"Carolan Di Giacomo",7862,168.27,"Greek Kabasa Feast",Kabasa,Olives
+737,"Henryetta Kempster",7601,168.27,"Greek Kabasa Feast",Kabasa,Olives
+516,"Jacynth Clubb",2686,168.27,"Greek Salad Combo","Greek salad",Falafel
+737,"Henryetta Kempster",7568,168.27,"Greek Kabasa Feast",Kabasa,Olives
+516,"Jacynth Clubb",2708,168.27,"Greek Salad Combo","Greek salad",Falafel
+649,"Niles MacMenamy",6569,168.27,"Greek Kabasa Feast",Kabasa,Olives
+498,"Pablo Dracksford",4573,168.27,"Greek Salad Combo","Greek salad",Falafel
+649,"Niles MacMenamy",6536,168.27,"Greek Kabasa Feast",Kabasa,Olives
+498,"Pablo Dracksford",4595,168.27,"Greek Salad Combo","Greek salad",Falafel
+915,"Kameko Cockton",6490,168.27,"Greek Salad Combo","Greek salad",Falafel
+868,"Pierson Baal",6252,168.27,"Greek Kabasa Feast",Kabasa,Olives
+915,"Kameko Cockton",6501,168.27,"Greek Salad Combo","Greek salad",Falafel
+868,"Pierson Baal",6241,168.27,"Greek Kabasa Feast",Kabasa,Olives
+148,"Lynsey Ludlamme",7381,168.27,"Greek Salad Combo","Greek salad",Falafel
+610,"Fax Rojahn",4309,168.27,"Greek Kabasa Feast",Kabasa,Olives
+148,"Lynsey Ludlamme",7425,168.27,"Greek Salad Combo","Greek salad",Falafel
+610,"Fax Rojahn",4287,168.27,"Greek Kabasa Feast",Kabasa,Olives
+743,"Elsworth Stannas",9337,168.27,"Greek Salad Combo","Greek salad",Falafel
+297,"Aldin Purrier",897,168.27,"Greek Kabasa Feast",Kabasa,Olives
+743,"Elsworth Stannas",9370,168.27,"Greek Salad Combo","Greek salad",Falafel
+297,"Aldin Purrier",864,168.27,"Greek Kabasa Feast",Kabasa,Olives
+549,"Barb Murfett",9555,168.27,"Greek Salad Combo","Greek salad",Falafel
+732,"Eimile Matz",20277,168.27,"Greek Pizza Combo",Pizza,Hummus
+549,"Barb Murfett",9588,168.27,"Greek Salad Combo","Greek salad",Falafel
+188,"Gigi Trunchion",10272,168.27,"Greek Salad Combo","Greek salad",Falafel
+732,"Eimile Matz",20266,168.27,"Greek Pizza Combo",Pizza,Hummus
+188,"Gigi Trunchion",10283,168.27,"Greek Salad Combo","Greek salad",Falafel
+792,"Sue Voyce",20197,168.27,"Greek Pizza Combo",Pizza,Hummus
+358,"Jethro Fenwick",11639,168.27,"Greek Salad Combo","Greek salad",Falafel
+792,"Sue Voyce",20186,168.27,"Greek Pizza Combo",Pizza,Hummus
+358,"Jethro Fenwick",11650,168.27,"Greek Salad Combo","Greek salad",Falafel
+865,"Licha Verden",12582,168.27,"Greek Salad Combo","Greek salad",Falafel
+199,"Doll Friary",19656,168.27,"Greek Pizza Combo",Pizza,Hummus
+865,"Licha Verden",12604,168.27,"Greek Salad Combo","Greek salad",Falafel
+199,"Doll Friary",19601,168.27,"Greek Pizza Combo",Pizza,Hummus
+980,"Virginie McGrey",18213,168.27,"Greek Pizza Combo",Pizza,Hummus
+156,"Shanan Mingay",17037,168.27,"Greek Salad Combo","Greek salad",Falafel
+980,"Virginie McGrey",18191,168.27,"Greek Pizza Combo",Pizza,Hummus
+156,"Shanan Mingay",17070,168.27,"Greek Salad Combo","Greek salad",Falafel
+795,"Gauthier Sapshed",19017,168.27,"Greek Salad Combo","Greek salad",Falafel
+205,"Shandy Sefton",17974,168.27,"Greek Pizza Combo",Pizza,Hummus
+795,"Gauthier Sapshed",19050,168.27,"Greek Salad Combo","Greek salad",Falafel
+205,"Shandy Sefton",17963,168.27,"Greek Pizza Combo",Pizza,Hummus
+257,"Petronille Scrimgeour",16443,168.27,"Greek Pizza Combo",Pizza,Hummus
+54,"Mano Abrahamson",20145,168.27,"Greek Salad Combo","Greek salad",Falafel
+257,"Petronille Scrimgeour",16432,168.27,"Greek Pizza Combo",Pizza,Hummus
+54,"Mano Abrahamson",20156,168.27,"Greek Salad Combo","Greek salad",Falafel
+869,"Junie Older",7156,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+373,"Burke Jupp",10060,168.27,"Greek Pizza Combo",Pizza,Hummus
+902,"Yorgos BoHlingolsen",17787,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+869,"Junie Older",7134,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+554,"Tabbie Conboy",8162,168.27,"Greek Pizza Combo",Pizza,Hummus
+476,"Demetris McGibbon",3434,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+844,"Sophey Garling",19067,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+684,"Allyce Berthon",20164,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+582,"Morganne Brecknell",125,168.27,"Greek Salad Delight","Greek salad",Falafel
+711,"Dareen Soutar",1832,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+444,"Wandie Yeeles",5673,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+444,"Wandie Yeeles",5651,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+554,"Tabbie Conboy",8140,168.27,"Greek Pizza Combo",Pizza,Hummus
+501,"Alister Stronack",1008,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+789,"Fayre Crocket",5126,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+755,"Valma Brideau",8336,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+948,"Berny Elcoate",6819,168.27,"Greek Pizza Combo",Pizza,Hummus
+789,"Fayre Crocket",5104,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+711,"Dareen Soutar",1854,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+493,"Henry Reaney",311,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+948,"Berny Elcoate",6808,168.27,"Greek Pizza Combo",Pizza,Hummus
+501,"Alister Stronack",986,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+443,"Antonino McMains",8990,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+493,"Henry Reaney",300,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+65,"Stephi Broose",2328,168.27,"Greek Pizza Combo",Pizza,Hummus
+99,"Kipp Coulling",2737,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+963,"Esdras Scoffins",11844,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+963,"Esdras Scoffins",11800,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+65,"Stephi Broose",2317,168.27,"Greek Pizza Combo",Pizza,Hummus
+437,"Montgomery Spileman",16283,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+99,"Kipp Coulling",2748,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+879,"Nathanil Eykel",2246,168.27,"Greek Pizza Combo",Pizza,Hummus
+879,"Nathanil Eykel",2235,168.27,"Greek Pizza Combo",Pizza,Hummus
+348,"Merill Leyninye",19595,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+341,"Law Leinweber",20230,168.27,"Greek Salad Delight","Greek salad",Falafel
+793,"Felita Dovey",13328,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+324,"Stephanie Uman",5639,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+1,"Bradford Rafe",1088,168.27,"Greek Pizza Combo",Pizza,Hummus
+312,"Lethia Bodechon",10205,168.27,"Greek Salad Delight","Greek salad",Falafel
+229,"Baxy Dunkerley",19722,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+1,"Bradford Rafe",1077,168.27,"Greek Pizza Combo",Pizza,Hummus
+312,"Lethia Bodechon",10194,168.27,"Greek Salad Delight","Greek salad",Falafel
+684,"Allyce Berthon",20175,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+394,"Emmerich Ochterlony",9903,168.27,"Greek Salad Delight","Greek salad",Falafel
+36,"Averell Joint",628,168.27,"Greek Pizza Combo",Pizza,Hummus
+59,"Shell Oldis",9716,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+394,"Emmerich Ochterlony",9892,168.27,"Greek Salad Delight","Greek salad",Falafel
+437,"Montgomery Spileman",16316,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+572,"Cornelius Harkess",9786,168.27,"Greek Salad Delight","Greek salad",Falafel
+36,"Averell Joint",617,168.27,"Greek Pizza Combo",Pizza,Hummus
+59,"Shell Oldis",9738,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+443,"Antonino McMains",9001,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+572,"Cornelius Harkess",9775,168.27,"Greek Salad Delight","Greek salad",Falafel
+983,"Rene Clements",10586,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+64,"Raven Cawkwell",9650,168.27,"Greek Salad Delight","Greek salad",Falafel
+210,"Paulie Lemerle",1051,168.27,"Greek Pizza Feast",Pizza,Olives
+239,"Itch Merle",16351,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+39,"Raye Fyldes",2043,168.27,"Greek Pizza Feast",Pizza,Olives
+229,"Baxy Dunkerley",19733,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+39,"Raye Fyldes",2054,168.27,"Greek Pizza Feast",Pizza,Olives
+145,"Evvie Crossby",6757,168.27,"Greek Salad Delight","Greek salad",Falafel
+692,"Kathy Fairlam",2106,168.27,"Greek Pizza Feast",Pizza,Olives
+983,"Rene Clements",10597,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+413,"Emmalynne Hairs",154,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+692,"Kathy Fairlam",2139,168.27,"Greek Pizza Feast",Pizza,Olives
+543,"Carena Nucator",2785,168.27,"Greek Pizza Feast",Pizza,Olives
+543,"Carena Nucator",2818,168.27,"Greek Pizza Feast",Pizza,Olives
+145,"Evvie Crossby",6746,168.27,"Greek Salad Delight","Greek salad",Falafel
+536,"Taffy Shipcott",2868,168.27,"Greek Pizza Feast",Pizza,Olives
+327,"Orel Gawthrope",11896,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+413,"Emmalynne Hairs",176,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+536,"Taffy Shipcott",2890,168.27,"Greek Pizza Feast",Pizza,Olives
+704,"Coralie Keenlayside",2962,168.27,"Greek Pizza Feast",Pizza,Olives
+704,"Coralie Keenlayside",2984,168.27,"Greek Pizza Feast",Pizza,Olives
+171,"Linc Martynov",11949,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+623,"Verena Garman",5706,168.27,"Greek Salad Delight","Greek salad",Falafel
+564,"Ash Lodford",3406,168.27,"Greek Pizza Feast",Pizza,Olives
+87,"Doreen Sothcott",3492,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+564,"Ash Lodford",3417,168.27,"Greek Pizza Feast",Pizza,Olives
+327,"Orel Gawthrope",11918,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+399,"Donella Tomasini",5150,168.27,"Greek Pizza Feast",Pizza,Olives
+399,"Donella Tomasini",5172,168.27,"Greek Pizza Feast",Pizza,Olives
+431,"Cullie McBrady",20292,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+623,"Verena Garman",5695,168.27,"Greek Salad Delight","Greek salad",Falafel
+61,"Philomena Petracchi",6283,168.27,"Greek Pizza Feast",Pizza,Olives
+239,"Itch Merle",16373,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+588,"Perrine Scalera",5459,168.27,"Greek Salad Delight","Greek salad",Falafel
+61,"Philomena Petracchi",6294,168.27,"Greek Pizza Feast",Pizza,Olives
+87,"Doreen Sothcott",3503,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+733,"Raye Rossant",12335,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+83,"Amandie Rohmer",7633,168.27,"Greek Pizza Feast",Pizza,Olives
+83,"Amandie Rohmer",7644,168.27,"Greek Pizza Feast",Pizza,Olives
+40,"Sarah Plaschke",8768,168.27,"Greek Pizza Feast",Pizza,Olives
+588,"Perrine Scalera",5448,168.27,"Greek Salad Delight","Greek salad",Falafel
+40,"Sarah Plaschke",8790,168.27,"Greek Pizza Feast",Pizza,Olives
+740,"Cristabel Nutty",6431,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+733,"Raye Rossant",12346,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+307,"Christi Flute",10754,168.27,"Greek Pizza Feast",Pizza,Olives
+307,"Christi Flute",10787,168.27,"Greek Pizza Feast",Pizza,Olives
+619,"Ezri Gouck",12236,168.27,"Greek Pizza Feast",Pizza,Olives
+117,"Gearard Rowston",17588,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+619,"Ezri Gouck",12258,168.27,"Greek Pizza Feast",Pizza,Olives
+630,"Verene Beatens",14575,168.27,"Greek Pizza Feast",Pizza,Olives
+71,"Godfrey Jellicorse",14664,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+630,"Verene Beatens",14586,168.27,"Greek Pizza Feast",Pizza,Olives
+71,"Godfrey Jellicorse",14631,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+8,"Alard Briat",13279,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+827,"Francis Runciman",16536,168.27,"Greek Pizza Feast",Pizza,Olives
+8,"Alard Briat",13246,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+827,"Francis Runciman",16547,168.27,"Greek Pizza Feast",Pizza,Olives
+68,"Anna-diane Kopps",11883,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+68,"Anna-diane Kopps",11861,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+179,"Calvin Aucock",16645,168.27,"Greek Pizza Feast",Pizza,Olives
+207,"Hermine Dorton",16650,168.27,"Greek Pizza Feast",Pizza,Olives
+182,"Enid Francescuccio",10407,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+182,"Enid Francescuccio",10396,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+179,"Calvin Aucock",16667,168.27,"Greek Pizza Feast",Pizza,Olives
+207,"Hermine Dorton",16672,168.27,"Greek Pizza Feast",Pizza,Olives
+861,"Dannye Passmore",20816,168.27,"Greek Pizza Feast",Pizza,Olives
+551,"Manolo Russ",7946,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+861,"Dannye Passmore",20827,168.27,"Greek Pizza Feast",Pizza,Olives
+158,"Mona Rudwell",3585,168.27,"Greek Salad Delight","Greek salad",Falafel
+551,"Manolo Russ",7924,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+740,"Cristabel Nutty",6453,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+348,"Merill Leyninye",19650,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+828,"Maddalena Wolfinger",12951,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+158,"Mona Rudwell",3563,168.27,"Greek Salad Delight","Greek salad",Falafel
+157,"Chrotoem Harniman",6547,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+240,"Granger Aiers",18260,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+677,"Berne Banbury",6660,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+272,"Jefferson Lauderdale",9314,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+157,"Chrotoem Harniman",6514,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+828,"Maddalena Wolfinger",12973,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+10,"Susette O'Neil",2558,168.27,"Greek Salad Delight","Greek salad",Falafel
+362,"Emelda Furbank",16088,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+677,"Berne Banbury",6682,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+793,"Felita Dovey",13317,168.27,"Greek Salad Special","Greek salad","Tomato bread"
+109,"Cirillo Creamen",6373,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+431,"Cullie McBrady",20303,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+689,"Armstrong Collerd",6370,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+10,"Susette O'Neil",2547,168.27,"Greek Salad Delight","Greek salad",Falafel
+341,"Law Leinweber",20208,168.27,"Greek Salad Delight","Greek salad",Falafel
+826,"Sly Fullwood",7743,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+168,"Christen Jedrachowicz",2431,168.27,"Greek Salad Delight","Greek salad",Falafel
+362,"Emelda Furbank",16132,168.27,"Italian Kabasa Feast",Kabasa,Minestrone
+109,"Cirillo Creamen",6351,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+826,"Sly Fullwood",7776,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+689,"Armstrong Collerd",6348,168.27,"Italian Greek Salad Special","Greek salad","Tomato bread"
+314,"Neely Frankcomb",18656,168.27,"Greek Kabasa Special",Kabasa,Flatbread
+296,"Phil Schapero",14956,168.27,"Italian Pizza Delight",Pizza,Hummus
+296,"Phil Schapero",14934,168.27,"Italian Pizza Delight",Pizza,Hummus
+994,"Web O'Howbane",6077,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+85,"Katherine Midson",13262,168.27,"Italian Pizza Delight",Pizza,Hummus
+994,"Web O'Howbane",6088,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+618,"Dalila Baldree",6160,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+35,"Reilly Domonkos",12479,168.27,"Italian Pizza Delight",Pizza,Hummus
+618,"Dalila Baldree",6171,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+747,"Georgeanna Boulton",7233,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+35,"Reilly Domonkos",12457,168.27,"Italian Pizza Delight",Pizza,Hummus
+747,"Georgeanna Boulton",7255,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+524,"Ulberto Alyutin",9182,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+710,"Haslett Jenkyn",9053,168.27,"Italian Pizza Delight",Pizza,Hummus
+524,"Ulberto Alyutin",9204,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+710,"Haslett Jenkyn",9020,168.27,"Italian Pizza Delight",Pizza,Hummus
+22,"Aubine Chardin",7205,168.27,"Italian Pizza Delight",Pizza,Hummus
+308,"Ellis Kops",14027,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+22,"Aubine Chardin",7183,168.27,"Italian Pizza Delight",Pizza,Hummus
+308,"Ellis Kops",14049,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+928,"Dodi Basindale",6558,168.27,"Italian Pizza Delight",Pizza,Hummus
+966,"Gwenora Beauchamp",14066,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+928,"Dodi Basindale",6525,168.27,"Italian Pizza Delight",Pizza,Hummus
+575,"Estele Schultze",4683,168.27,"Italian Pizza Delight",Pizza,Hummus
+966,"Gwenora Beauchamp",14088,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+29,"Saul Parsonage",14724,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+575,"Estele Schultze",4661,168.27,"Italian Pizza Delight",Pizza,Hummus
+29,"Saul Parsonage",14746,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+985,"Marketa Olman",3877,168.27,"Italian Pizza Delight",Pizza,Hummus
+375,"Grenville Hyne",15109,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+985,"Marketa Olman",3844,168.27,"Italian Pizza Delight",Pizza,Hummus
+375,"Grenville Hyne",15120,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+885,"Serena Yerby",17854,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+481,"Lowrance Kleinmintz",33,168.27,"Italian Pizza Delight",Pizza,Hummus
+885,"Serena Yerby",17865,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+481,"Lowrance Kleinmintz",22,168.27,"Italian Pizza Delight",Pizza,Hummus
+345,"Kym Lepard",18024,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+345,"Kym Lepard",18035,168.27,"Italian Kabasa Combo",Kabasa,Flatbread
+449,"Mill Lambell",2122,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+449,"Mill Lambell",2155,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+723,"Joline Cancelier",3119,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+723,"Joline Cancelier",3141,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+859,"Elke Dumingos",3342,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+859,"Elke Dumingos",3364,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+880,"Ryley McKillop",9179,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+880,"Ryley McKillop",9201,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+333,"Germaine Vallack",10884,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+333,"Germaine Vallack",10895,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+796,"Cynthea O'Hickee",11553,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+796,"Cynthea O'Hickee",11586,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+511,"Marielle Buffey",12907,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+511,"Marielle Buffey",12929,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+866,"Borden Hacking",13436,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+866,"Borden Hacking",13458,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+492,"Marena Jacox",15186,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+492,"Marena Jacox",15197,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+440,"Steffie Slemmonds",16099,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+440,"Steffie Slemmonds",16143,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+531,"Roxine Humphries",17585,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+531,"Roxine Humphries",17640,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+696,"Jerome Ovitts",20396,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+696,"Jerome Ovitts",20407,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+221,"Jenn Josephoff",20434,168.27,"Italian Greek Salad Combo","Greek salad",Minestrone
+883,"Mariel Bourdel",2921,168.27,"Greek Pizza Feast",Pizza,Falafel
+883,"Mariel Bourdel",2943,168.27,"Greek Pizza Feast",Pizza,Falafel
+278,"Dorie Cammell",3046,168.27,"Greek Pizza Feast",Pizza,Falafel
+305,"Felice Fiddler",7268,168.27,"Greek Pizza Feast",Pizza,Falafel
+305,"Felice Fiddler",7279,168.27,"Greek Pizza Feast",Pizza,Falafel
+495,"Mirilla Barff",8279,168.27,"Greek Pizza Feast",Pizza,Falafel
+495,"Mirilla Barff",8290,168.27,"Greek Pizza Feast",Pizza,Falafel
+16,"Marchelle Annes",9979,168.27,"Greek Pizza Feast",Pizza,Falafel
+16,"Marchelle Annes",9990,168.27,"Greek Pizza Feast",Pizza,Falafel
+944,"Giustina Thorne",12125,168.27,"Greek Pizza Feast",Pizza,Falafel
+944,"Giustina Thorne",12136,168.27,"Greek Pizza Feast",Pizza,Falafel
+830,"Dill Beardshall",12364,168.27,"Greek Pizza Feast",Pizza,Falafel
+830,"Dill Beardshall",12386,168.27,"Greek Pizza Feast",Pizza,Falafel
+292,"Essy Licence",17030,168.27,"Greek Pizza Feast",Pizza,Falafel
+292,"Essy Licence",17063,168.27,"Greek Pizza Feast",Pizza,Falafel
+532,"Deina Agus",18804,168.27,"Greek Pizza Feast",Pizza,Falafel
+532,"Deina Agus",18815,168.27,"Greek Pizza Feast",Pizza,Falafel
+303,"Melisent Claessens",18910,168.27,"Greek Pizza Feast",Pizza,Falafel
+303,"Melisent Claessens",18921,168.27,"Greek Pizza Feast",Pizza,Falafel
+970,"Gardy Neljes",18938,168.27,"Greek Pizza Feast",Pizza,Falafel
+970,"Gardy Neljes",18971,168.27,"Greek Pizza Feast",Pizza,Falafel
+810,"Manuel Gloyens",19361,168.27,"Greek Pizza Feast",Pizza,Falafel
+868,"Pierson Baal",6254,190.00,"Greek Kabasa Feast",Kabasa,Olives
+128,"Linus Greer",11284,190.00,"Greek Kabasa Delight",Kabasa,Minestrone
+296,"Phil Schapero",14960,190.00,"Italian Pizza Delight",Pizza,Hummus
+128,"Linus Greer",11339,190.00,"Greek Kabasa Delight",Kabasa,Minestrone
+431,"Cullie McBrady",20305,190.00,"Italian Kabasa Feast",Kabasa,Minestrone
+176,"Winn Raynes",1286,190.00,"Italian Kabasa Combo",Kabasa,Flatbread
+886,"Gregg Yellowlea",12632,190.00,"Greek Kabasa Delight",Kabasa,Minestrone
+826,"Sly Fullwood",7782,190.00,"Greek Kabasa Special",Kabasa,Flatbread
+134,"Gabrielle Coxall",20978,190.00,"Greek Kabasa Feast",Kabasa,Olives
+453,"Haskel Bowell",14949,190.00,"Greek Kabasa Delight",Kabasa,Minestrone
+134,"Gabrielle Coxall",20967,190.00,"Greek Kabasa Feast",Kabasa,Olives
+453,"Haskel Bowell",14971,190.00,"Greek Kabasa Delight",Kabasa,Minestrone
+107,"Viviyan Lantiff",17391,190.00,"Greek Kabasa Delight",Kabasa,Minestrone
+178,"Stan Clethro",20930,190.00,"Greek Kabasa Feast",Kabasa,Olives
+107,"Viviyan Lantiff",17402,190.00,"Greek Kabasa Delight",Kabasa,Minestrone
+178,"Stan Clethro",20919,190.00,"Greek Kabasa Feast",Kabasa,Olives
+972,"Pietra Dibdall",17426,190.00,"Greek Kabasa Delight",Kabasa,Minestrone
+267,"Noel Ladley",20683,190.00,"Greek Kabasa Feast",Kabasa,Olives
+972,"Pietra Dibdall",17470,190.00,"Greek Kabasa Delight",Kabasa,Minestrone
+267,"Noel Ladley",20661,190.00,"Greek Kabasa Feast",Kabasa,Olives
+241,"Delilah Ayerst",19123,190.00,"Greek Kabasa Feast",Kabasa,Olives
+504,"Arlette Magauran",18406,190.00,"Italian Kabasa Combo",Kabasa,Flatbread
+171,"Linc Martynov",11953,190.00,"Greek Salad Special","Greek salad","Tomato bread"
+241,"Delilah Ayerst",19090,190.00,"Greek Kabasa Feast",Kabasa,Olives
+547,"Kalinda Grestye",15713,190.00,"Italian Pizza Delight",Pizza,Hummus
+176,"Winn Raynes",1264,190.00,"Italian Kabasa Combo",Kabasa,Flatbread
+528,"Korney O'Carney",3849,190.00,"Italian Greek Salad Special","Greek salad","Tomato bread"
+69,"Xymenes Hands",18212,190.00,"Greek Kabasa Feast",Kabasa,Olives
+504,"Arlette Magauran",18417,190.00,"Italian Kabasa Combo",Kabasa,Flatbread
+299,"Aldrich Phythien",11025,190.00,"Greek Kabasa Special",Kabasa,Flatbread
+547,"Kalinda Grestye",15746,190.00,"Italian Pizza Delight",Pizza,Hummus
+957,"Delly Ventum",266,190.00,"Italian Kabasa Combo",Kabasa,Flatbread
+69,"Xymenes Hands",18190,190.00,"Greek Kabasa Feast",Kabasa,Olives
+791,"Leanna Chapelhow",18890,190.00,"Italian Kabasa Feast",Kabasa,Minestrone
+329,"Lucho McGerraghty",18070,190.00,"Greek Kabasa Feast",Kabasa,Olives
+875,"Leslie Noden",1023,190.00,"Greek Salad Delight","Greek salad",Falafel
+66,"Marsiella Duprey",16556,190.00,"Italian Pizza Delight",Pizza,Hummus
+486,"Bennett Pendered",19300,190.00,"Italian Kabasa Combo",Kabasa,Flatbread
+229,"Baxy Dunkerley",19735,190.00,"Greek Kabasa Special",Kabasa,Flatbread
+957,"Delly Ventum",255,190.00,"Italian Kabasa Combo",Kabasa,Flatbread
+329,"Lucho McGerraghty",18048,190.00,"Greek Kabasa Feast",Kabasa,Olives
+416,"Katy Pine",3549,190.00,"Italian Greek Salad Special","Greek salad","Tomato bread"
+314,"Neely Frankcomb",18658,190.00,"Greek Kabasa Special",Kabasa,Flatbread
+38,"Leonard Fuxman",16336,190.00,"Greek Kabasa Feast",Kabasa,Olives
+283,"Spenser Wandless",17103,190.00,"Greek Salad Special","Greek salad","Tomato bread"
